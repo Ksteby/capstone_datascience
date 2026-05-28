@@ -6,7 +6,7 @@
 ![Plotly/Dash](https://img.shields.io/badge/Plotly_Dash-Interactive%20Dataviz-informational.svg)
 
 ## Executive Summary
-SpaceX has revolutionized the aerospace industry by making space travel affordable. Their secret? Reusing the first stage of the Falcon 9 rocket, which saves upwards of $100 million per launch. 
+SpaceX has revolutionized the aerospace industry by making space travel affordable. Their secret? Reusing the first stage of the Falcon 9 rocket saves upwards of $100 million per launch. 
 
 The objective of this project is to build an end-to-end Data Science and Machine Learning pipeline to **predict whether the Falcon 9 first stage will successfully land**. This predictive model could be used by a competing aerospace company to accurately estimate launch costs and bid against SpaceX.
 
